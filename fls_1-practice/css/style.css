@@ -50,53 +50,20 @@ body {
     overflow: hidden;
 }
 
-/*  */
+/* ------------------------------------------------------ */
 
-.krug {
-    width: 200px;
-    height: 200px;
-    background-color: aquamarine;
-    border-radius: 50%;
+.wrapper {}
+
+.container {
+    max-width: 1200px;
 }
 
-.opa {
-    opacity: 50%;
-}
+.who {}
 
-.span {
-    background-color: aquamarine;
-    margin: 50px;
-    display: inline-block;
-}
+.logo {}
 
-.one {
-    width: 200px;
-    height: 200px;
-    background-color: aquamarine;
-    margin: 1px;
-}
+.title {}
 
-.two {
-    width: 500px;
-    height: 100px;
-    background-color: aquamarine;
-    margin: 25px;
-}
+.text {}
 
-.three {
-    width: 20px;
-    height: 280px;
-    background-color: aquamarine;
-    margin: 5px;
-}
-
-.four {
-    width: 250px;
-    height: 100px;
-    background-color: aquamarine;
-    margin: -5px;
-}
-
-.link {
-    text-shadow: 0px 0px 5px rgb(255, 0, 0);
-}
+.img {}
